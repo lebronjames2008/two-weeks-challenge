@@ -42,7 +42,6 @@ Create a method with parameter(int month)
 If input month=1, print "January"
 If input month=2, print "February"
 .
-.
 If input month=12, print "December"
 
 ## Day 8) Program to use for-loop.
