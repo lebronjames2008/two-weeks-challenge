@@ -4,20 +4,22 @@ public class AddTwoNumbers {
 
     public static void main(String[] args) {
 
-        int a = 2;
-        int b = 3;
+        //Add two int number
+        int number1 = 200;
+        int number2 = 755;
 
-        double c = 50.5;
-        double d = 38.9;
+        int result = number1 + number2;
+        System.out.println(result);
+        System.out.println("Results is " + result);
 
 
-        String x = "Sibi";
-        String y = " is the best";
+        //Add two double numbers
+        double cc = 50.5;
+        double dd = 38.9;
 
-        System.out.println(x+y);
-        System.out.println(c+d);
-        System.out.println(a+b);
-
+        double answer = cc + dd;
+        System.out.println(answer);
+        System.out.println("Answer is " + answer);
 
     }
 
